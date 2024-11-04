@@ -8,6 +8,8 @@
  */
 
 #include <iostream>
+#include <fstream>
+#include <string>
 #include "DSString.h"
 #include "SentimentClassifier.h"
 
